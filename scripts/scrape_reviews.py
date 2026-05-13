@@ -36,6 +36,7 @@ def scrape_bank_reviews():
 
         for r in rvws:
             all_reviews.append({
+                'review_id': r['reviewId'],  # Add this line
                 'review_text': r['content'],
                 'rating': r['score'],
                 'review_date': r['at'],
