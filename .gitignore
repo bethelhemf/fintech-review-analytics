@@ -1,0 +1,16 @@
+# Data and Databases
+data/
+*.csv
+*.db
+*.sqlite
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# IDE
+.vscode/
+.DS_Store
