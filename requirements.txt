@@ -5,3 +5,16 @@ psycopg2-binary
 textblob
 python-dotenv
 pytest
+pandas
+sqlalchemy
+psycopg2-binary
+transformers
+torch
+scipy
+google-play-scraper
+spacy
+nbformat
+seaborn
+matplotlib
+python-dotenv
+textblob
